@@ -23,4 +23,4 @@ To apply SM4 ECB Encryption and Decryption using run-time interpositioning, I wr
 As shown above, the decrypted data is the same as the file to be written, the implementation is verified. And the encrypted data is written as below.
 
 ![runtime-2](imgs/runtime-2.png)
-As shown above, the encrypted data still remains.
+As shown above, the previous encrypted data still remains.
