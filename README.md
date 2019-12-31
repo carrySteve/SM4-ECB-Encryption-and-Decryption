@@ -8,11 +8,10 @@ To apply SM4 ECB Encryption and Decryption using link-time interpositioning, I w
 
 ### Screenshot to verify link-time interpositioning
 
-![avatar](imgs/linktime-1.png)
-
+![lnktime-1](imgs/linktime-1.png)
 As shown above, the decrypted data is the same as the file to be written, the implementation is verified. And the encrypted data is written as below.
 
-![avatar](imgs/linktime-2.png)
+![lnktime-2](imgs/linktime-2.png)
 
 ## Run-time Interpositioning
 
@@ -20,8 +19,8 @@ To apply SM4 ECB Encryption and Decryption using run-time interpositioning, I wr
 
 ### Screenshot to verify run-time interpositioning
 
-![avatar](imgs/runtime-1.png)
+![runtime-1](imgs/runtime-1.png)
 As shown above, the decrypted data is the same as the file to be written, the implementation is verified. And the encrypted data is written as below.
 
-![avatar](imgs/runtime-2.png)
+![runtime-2](imgs/runtime-2.png)
 As shown above, the encrypted data still remains.
